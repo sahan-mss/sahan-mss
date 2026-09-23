@@ -2,11 +2,24 @@
 
 <div align="center">
 
+<br>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student+%F0%9F%92%BB;AI+%26+Technology+Enthusiast+%F0%9F%A4%96;Future+Software+Engineer+%F0%9F%9A%80;Always+Learning+%26+Building+%F0%9F%94%A5" alt="Typing SVG" />
+
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
+
+<br>
+<br>
+<br>
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation">
+
+</div>
 
 </div>
 
